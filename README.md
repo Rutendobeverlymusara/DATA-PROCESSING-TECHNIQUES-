@@ -1,4 +1,5 @@
 # PARALLEL AND SEQUENTIAL PROGRAMMING 
+
 # OVERVIEW 
 This is to measure performance between parallel programming and sequential programming testing quality and the time taken for data to be processed with the different methods of processing techniques. The data was processed using 12 cores with hyperthreading where a single core can execute a lot of threads of code at the same time and it increases system performance and reliability. 
 
@@ -24,10 +25,10 @@ With Sequential programming, tasks are executed one at each time where each line
 ![image](https://github.com/user-attachments/assets/bd01b2fd-5c3a-4a3a-bd5d-882bdaa3d28c)
 
 # PARALLEL PROGRAMMING 
-
+This allows tasks to be run simultanouesly laveraging multiple CPU cores or GPUs to allow computational time 
 ![image](https://github.com/user-attachments/assets/837b4bf6-2a8e-40bc-bbd8-2843d248445e)
 
-# PERFORMANCE 
-There are two testing techniques used for this data which was automated testing and break testing. Automated testing. Break Testing was used to test a system under extreme conditions. Break testing will help us look for unexpected errors or failures helping the client be aware of how the system will behave under these circumstances. Testing these will help minimise downtime![image](https://github.com/user-attachments/assets/fa2a29a2-cc41-4c42-94e6-f563c5df334d)
-
+# TESTING
+There are two testing techniques used for this data which was automated testing and break testing. Automated testing automates tests and compare results with the expected versus the actual results. This can help with error detection and this will ensure that data is accurate and is reliable. 
+Break Testing was used to test a system under extreme conditions. Break testing will help us look for unexpected errors or failures analysing how the system will behave under these circumstances. Testing these will help minimise downtime.
 
